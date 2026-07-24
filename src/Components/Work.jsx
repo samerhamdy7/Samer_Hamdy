@@ -65,7 +65,7 @@ const Work = () => {
         "JWT Auth",
         "Multi-tenant Architecture",
       ],
-      liveLink: "https://lawyer.adalatech.online",
+      liveLink: "https://the-lawyer-sass.vercel.app",
     },
     {
       title: "Automotive Marketplace Platform",
